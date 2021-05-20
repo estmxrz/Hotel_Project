@@ -1,0 +1,16 @@
+C:\Users\msivo\Documents\Hotel_Project\bin\Debug\net5.0\Hotel_Project.exe
+C:\Users\msivo\Documents\Hotel_Project\bin\Debug\net5.0\Hotel_Project.deps.json
+C:\Users\msivo\Documents\Hotel_Project\bin\Debug\net5.0\Hotel_Project.runtimeconfig.json
+C:\Users\msivo\Documents\Hotel_Project\bin\Debug\net5.0\Hotel_Project.runtimeconfig.dev.json
+C:\Users\msivo\Documents\Hotel_Project\bin\Debug\net5.0\Hotel_Project.dll
+C:\Users\msivo\Documents\Hotel_Project\bin\Debug\net5.0\ref\Hotel_Project.dll
+C:\Users\msivo\Documents\Hotel_Project\bin\Debug\net5.0\Hotel_Project.pdb
+C:\Users\msivo\Documents\Hotel_Project\obj\Debug\net5.0\Hotel_Project.csprojAssemblyReference.cache
+C:\Users\msivo\Documents\Hotel_Project\obj\Debug\net5.0\Hotel_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msivo\Documents\Hotel_Project\obj\Debug\net5.0\Hotel_Project.AssemblyInfoInputs.cache
+C:\Users\msivo\Documents\Hotel_Project\obj\Debug\net5.0\Hotel_Project.AssemblyInfo.cs
+C:\Users\msivo\Documents\Hotel_Project\obj\Debug\net5.0\Hotel_Project.csproj.CoreCompileInputs.cache
+C:\Users\msivo\Documents\Hotel_Project\obj\Debug\net5.0\Hotel_Project.dll
+C:\Users\msivo\Documents\Hotel_Project\obj\Debug\net5.0\ref\Hotel_Project.dll
+C:\Users\msivo\Documents\Hotel_Project\obj\Debug\net5.0\Hotel_Project.pdb
+C:\Users\msivo\Documents\Hotel_Project\obj\Debug\net5.0\Hotel_Project.genruntimeconfig.cache

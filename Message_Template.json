@@ -1,0 +1,11 @@
+[
+   {
+       "message" : "Good $timeOfDay $firstName, and welcome to $company! Room $roomNumber is now ready for you. Enjoy your stay, and let us know if you need anything."
+   },
+   {
+       "message" : "Good $timeOfDay $firstName, and thanks for choosing $company! Your hotel room $roomNumber is all set! Have a great stay and let us know if you need anything."
+   },
+   {
+       "message" : "Good $timeOfDay $firstName, I hope you'll enjoy your stay at $company. Room number $roomNumber is all ready and good to go. We hope you enjoy your stay! Please let us know if you need anything."
+   }
+]
